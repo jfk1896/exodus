@@ -1,0 +1,45 @@
+<repositories>
+	
+	<repository>
+      <name>Kodi Bae</name>
+      <username>kodibae</username>
+      <description>Exodus, 1Channel, Ultimate IPTV</description>
+	</repository>
+	
+	<repository>
+      <name>Wilson Magic</name>
+      <username>Wilson-Magic</username>
+      <description>Magicality, Neptune Rising, Masterani Redux</description>
+	</repository>
+	
+	<repository>
+      <name>doko</name>
+      <username>doko-desuka</username>
+      <description>Toonmania2, CTOON Kodi</description>
+	</repository>
+	
+	<repository>
+      <name>DxCx</name>
+      <username>dxcx</username>
+      <description>9Anime</description>
+	</repository>
+	
+	<repository>
+      <name>elgatito</name>
+      <username>elgatito</username>
+      <description>Elementum</description>
+	</repository>
+
+	<repository>
+      <name>iwannabelikemike</name>
+      <username>iwannabelikemike</username>
+      <description>Sparkle</description>
+	</repository>
+	
+	<repository>
+      <name>Iceballs</name>
+      <username>Iceballs</username>
+      <description>IceFilms, 1Channel</description>
+	</repository>
+
+</repositories>
